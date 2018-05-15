@@ -1,3 +1,4 @@
 #ignore the library and temp file in the unity3d client project
 Library/
 Temp/
+Builds/
