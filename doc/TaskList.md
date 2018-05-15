@@ -1,53 +1,44 @@
 #below is the describe about the gta project
-使命：让开发者专注于开发
+    使命：让开发者专注于开发
+    愿景：开发者只需要发布作品，收入自来 
+    本质：基于区块链共识和激励机制的任务系统 
+    技术：区块链+AI+功能游戏（模拟公司运作）
+    价值：项目宣传，募资，开发，发布平台 开发者连接用户和投资者的纽带 
+    特性：生产关系创新，安全，可靠，去中介，自动化结算 
+    革新：干掉公司，干掉发行商 
+    交互：3D佣兵大厅中，越来越聪明的私人小秘为您服务 
+    应用：第一个应用领域为独立游戏开发
 
-愿景：开发者只需要发布作品，收入自来 
-
-本质：基于区块链共识和激励机制的任务系统 
-
-技术：区块链+AI+功能游戏（模拟公司运作）
-
-价值：项目宣传，募资，开发，发布平台 开发者连接用户和投资者的纽带 
-
-特性：生产关系创新，安全，可靠，去中介，自动化结算 
-
-革新：干掉公司，干掉发行商 
-
-交互：3D佣兵大厅中，越来越聪明的私人小秘为您服务 
-
-应用：第一个应用领域为独立游戏开发
-
-###details
-1、功能游戏，模拟公司运作
-    
-2、排行榜，
+    details
+    1、功能游戏，模拟公司运作   
+    2、排行榜，
         最高赏金任务帮，
         公司市值榜
         公司活跃度榜
         
-3、新价格 =（成交价-买入价）/总市值+当前价
+    3、新价格 =（成交价-买入价）/总市值+当前价
 
-4、公司规则
+    4、公司规则
         if 良好人品 then  return result（not program or other rules）
         
-5、任务列表
+    5、任务列表
         1、注册公司
         2、办公场地
         3、小程序开发技术框架
         
-6、公开、私有
+    6、公开、私有
 
 #another version
 
-愿景：everyone can play and work in the fair ecosystem.
+    愿景：everyone can play and work in the fair ecosystem.
 
-what：智能公开可监管的在线工作，学习，社交，投资生态系统。
+    what：智能公开可监管的在线工作，学习，社交，投资生态系统。
 
-who：b圈，开发者,知识贡献者
+    who：b圈，开发者,知识贡献者
 
-can：reward to your do
+    can：reward to your do
 
-featrue：
+    featrue：
 
         v：interest way to show the personl and growring  data of bit coin data
         c:  ai to fetch and  analize the data and user actions
@@ -56,7 +47,7 @@ featrue：
         m:data is store in form of block chain ,every one can be server node.   
             i do is just write the source code on github.it is free to use for every one ,
             i just have the token in this system,mey be i can earn much tokens at the start priord on the same rule,like bit coin.
-keyword:    bc+ai+ar+gta+task+product
+    keyword:    bc+ai+ar+gta+task+product
 
             bc:blockchain define the ecosystem scheme ,define the server node structure,define the data store structure,define the reward rule,
                     free the creators(foucus on the source code).shortor the distance between users and creators.trustless for everyone ,
@@ -78,7 +69,7 @@ keyword:    bc+ai+ar+gta+task+product
             gta: gta is the blood  of the gta ecosystem
             task: task is fat of the gta ecosystem
             product:product is muscle of the gta ecosystem
-货币发行方法：
+    货币发行方法：
 
         发行原则：奖励所有参与人。
                         每个token都有完整且无限的生命周期
